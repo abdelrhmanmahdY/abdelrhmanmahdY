@@ -6,7 +6,7 @@
 
 ## I will **crack** this sh**t! 🚀
 
-### 🌱 I’m currently learning **MLOps**
+
 
 <p align="center">
   <img src="https://fs.buttercms.com/resize=width:885/lstH1ZSmTMWCmNuobhCA" alt="Debian Logo" width="200" height="150"/>
